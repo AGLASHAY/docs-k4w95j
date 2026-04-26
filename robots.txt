@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-r1iae5.adminrtpambyar.live/sitemap.xml
